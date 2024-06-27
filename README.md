@@ -2,6 +2,8 @@
 
 TranslatePlugin 多语言 自动翻译 插件 (由ChatGPT生成)
 
+切换语言自动翻译全站文章，调用edge免费接口，无限次数。
+
 https://www.123pan.com/s/yFT9-gG8ch.html
 
 # ChatGPT 提示词
